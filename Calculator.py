@@ -1,4 +1,4 @@
-class Calculator_AS
+class Calculator_AS:
     def __init__(self, a, b):
         self.a = a
         self.b = b
